@@ -1,0 +1,15 @@
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\bin\Debug\PhanQuyenApp.exe.config
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\bin\Debug\PhanQuyenApp.exe
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\bin\Debug\PhanQuyenApp.pdb
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.csproj.AssemblyReference.cache
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.FormChuongTrinh.resources
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.FormDangNhap.resources
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.Properties.Resources.resources
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.csproj.GenerateResource.cache
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.csproj.CoreCompileInputs.cache
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.exe
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.pdb
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.FormDangKy.resources
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.FormQuyenMatKhau.resources
+C:\Users\myloc\Desktop\Study\PhanQuyen\PhanQuyenApp\PhanQuyenApp\obj\Debug\PhanQuyenApp.FormQLTaiKhoan.resources

@@ -1,6 +1,7 @@
 # MTK-PhanQuyen
 
-Hướng đãn mở file
+
+* Hướng đãn mở file *
 
 b1: tải về và giải nến
 b2: mở Visual Studio
@@ -13,16 +14,16 @@ B4: đăng nhập
   + Tài khoản: son
   + Mật khẩu: 12345678
 +...
-=================================== /n
-Chức năng 
+
+-Chức năng 
 + đăng nhập 
 + đăng ký
 + Quyên TK MK
 + trang chủ 
 + QUản lý tài khoản Phân Quyền
 + Đăng xuất
-===================================
-Thành Viên nhóm
+
+-Thành Viên nhóm
 + Phạm Thanh Sơn
 + Lân Ngọc Yến
 + Nguyễn Quang Thanh

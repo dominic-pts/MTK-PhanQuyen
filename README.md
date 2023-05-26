@@ -3,10 +3,10 @@
 
 * Hướng đãn mở file *
 
-b1: tải về và giải nến
-b2: mở Visual Studio
-b3: chạy file 
-B4: đăng nhập 
++b1: tải về và giải nến
++b2: mở Visual Studio
++b3: chạy file 
++B4: đăng nhập 
 + chủ khách sạn
   + Tài khoản: Admin 
   + Mật khẩu: 12345678
